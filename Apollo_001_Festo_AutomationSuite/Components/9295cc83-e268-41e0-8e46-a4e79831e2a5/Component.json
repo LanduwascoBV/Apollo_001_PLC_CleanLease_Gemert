@@ -1,0 +1,48 @@
+﻿{
+  "InstanceGuid": "9295cc83-e268-41e0-8e46-a4e79831e2a5",
+  "Name": null,
+  "Guid": "cc0c8c4e-e21d-4f82-b0ff-30882eec7e9a",
+  "Description": null,
+  "Metadata": {
+    "Versions": "[\"2.8.2.0\"]"
+  },
+  "Resources": [
+    {
+      "Location": "FirmwareDeviceFile.xml",
+      "Description": null,
+      "OwnerGuid": "9295cc83-e268-41e0-8e46-a4e79831e2a5",
+      "Metadata": {}
+    },
+    {
+      "Location": "DeviceParameters.csv",
+      "Description": null,
+      "OwnerGuid": "9295cc83-e268-41e0-8e46-a4e79831e2a5",
+      "Metadata": {}
+    },
+    {
+      "Location": "InternalParameters.csv",
+      "Description": null,
+      "OwnerGuid": "9295cc83-e268-41e0-8e46-a4e79831e2a5",
+      "Metadata": {}
+    },
+    {
+      "Location": "watchlist.json",
+      "Description": null,
+      "OwnerGuid": "9295cc83-e268-41e0-8e46-a4e79831e2a5",
+      "Metadata": {}
+    },
+    {
+      "Location": "TR_f19fdd06-4b42-4143-985d-2eeeb59ee724.fmd",
+      "Description": null,
+      "OwnerGuid": "9295cc83-e268-41e0-8e46-a4e79831e2a5",
+      "Metadata": {}
+    },
+    {
+      "Location": "TR_3d92aef3-20a5-4b91-8dfe-09270292ca8a.fmd",
+      "Description": null,
+      "OwnerGuid": "9295cc83-e268-41e0-8e46-a4e79831e2a5",
+      "Metadata": {}
+    }
+  ],
+  "FormatVersion": "0.02"
+}

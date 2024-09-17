@@ -1,0 +1,47 @@
+﻿{
+  "Name": "29831c85-ba7e-46a6-aea9-b1cade54bf41",
+  "Guid": "c9655c1b-8870-45ea-9e4d-b2da706a4bff",
+  "Description": null,
+  "Metadata": {
+    "Versions": "[\"2.7.0.64\"]"
+  },
+  "Resources": [
+    {
+      "Location": "Apollo_001_Festo_AutomationSuite-AllUsers.opt",
+      "Description": null,
+      "OwnerGuid": "c9655c1b-8870-45ea-9e4d-b2da706a4bff",
+      "Metadata": {}
+    },
+    {
+      "Location": "Apollo_001_Festo_AutomationSuite-RobinvanNieuwenhuyse-AzureAD.opt",
+      "Description": null,
+      "OwnerGuid": "c9655c1b-8870-45ea-9e4d-b2da706a4bff",
+      "Metadata": {}
+    },
+    {
+      "Location": "Apollo_001_Festo_AutomationSuite.project",
+      "Description": null,
+      "OwnerGuid": "c9655c1b-8870-45ea-9e4d-b2da706a4bff",
+      "Metadata": {}
+    },
+    {
+      "Location": "TypeDisplayNameOverrides.json",
+      "Description": null,
+      "OwnerGuid": "c9655c1b-8870-45ea-9e4d-b2da706a4bff",
+      "Metadata": {}
+    },
+    {
+      "Location": "DisabledObjectCommands.json",
+      "Description": null,
+      "OwnerGuid": "c9655c1b-8870-45ea-9e4d-b2da706a4bff",
+      "Metadata": {}
+    },
+    {
+      "Location": "Apollo_001_Festo_AutomationSuite.CPX_E_CEC_M1_PN.Application.7fed2f8e-274e-4040-93a5-24c946cb57cb.compileinfo",
+      "Description": null,
+      "OwnerGuid": "c9655c1b-8870-45ea-9e4d-b2da706a4bff",
+      "Metadata": {}
+    }
+  ],
+  "FormatVersion": "0.01"
+}
