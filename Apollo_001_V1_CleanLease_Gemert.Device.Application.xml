@@ -13,11 +13,17 @@
   <NodeList>
     <Node name="Application">
       <Node name="GVL_1">
+        <Node name="AI_Done" type="T_BOOL" access="ReadWrite" />
+        <Node name="AI_Start" type="T_BOOL" access="ReadWrite" />
+        <Node name="AI_USE_TestProd" type="T_BOOL" access="ReadWrite" />
         <Node name="Current_Pos_Inner" type="T_LREAL" access="ReadWrite" />
         <Node name="Current_Pos_Outer" type="T_LREAL" access="ReadWrite" />
         <Node name="Machine_In_Error" type="T_BOOL" access="ReadWrite" />
         <Node name="Machine_Ready_To_Run" type="T_BOOL" access="ReadWrite" />
         <Node name="Machine_Test_Mode" type="T_BOOL" access="ReadWrite" />
+        <Node name="Machine_TestProd_Mode" type="T_BOOL" access="ReadWrite" />
+        <Node name="Pick_Pos_Inner" type="T_INT" access="ReadWrite" />
+        <Node name="Pick_Pos_Outer" type="T_INT" access="ReadWrite" />
         <Node name="Reset" type="T_BOOL" access="ReadWrite" />
         <Node name="Test_Move" type="T_BOOL" access="ReadWrite" />
         <Node name="Test_Pick_Conveyor" type="T_BOOL" access="ReadWrite" />
