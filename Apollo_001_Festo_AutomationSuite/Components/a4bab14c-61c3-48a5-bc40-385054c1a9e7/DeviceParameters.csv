@@ -2060,12 +2060,12 @@ P1.126.0.0；Festo.Tool.XMLHandler.XMLInterpreterBase.Data.EnumEntry:AmSources�
 P1.127.0.0；Festo.Tool.XMLHandler.XMLInterpreterBase.Data.EnumEntry:AmSources；0；AmPrimaryEncoder
 P1.139.0.0；Festo.Tool.XMLHandler.XMLInterpreterBase.Data.EnumEntry:DiagnosisOptions；1；OPTION_SAVE_TO_LOG
 P1.143.0.0；Festo.Tool.XMLHandler.XMLInterpreterBase.Data.EnumEntry:DiagnosisLevel；256；DIAGNOSIS_LEVEL_STOP_CATEGORY_1
-P1.220.0.0；System.Single；0x41E7A281；28,95435
+P1.220.0.0；System.Single；0x40C758A1；6,229569
 P1.221.0.0；System.Int64；0x0000000000000000；0,00
 P1.222.0.0；System.Single；0xBDCCCCCD；-0,10
 P1.223.0.0；System.Single；0x3DCCCCCD；0,10
-P1.224.0.0；System.Single；0x3E8664DE；0,2624883
-P1.225.0.0；System.Single；0x4234184B；45,02372
+P1.224.0.0；System.Single；0x3E4DCB15；0,20097
+P1.225.0.0；System.Single；0x41EB6594；29,4246
 P1.226.0.0；System.Single；0x00000000；0,00
 P1.226.0.1；System.Single；0x00000000；0,00
 P1.226.0.2；System.Single；0x00000000；0,00
@@ -2156,8 +2156,8 @@ P1.958.0.0；System.Single；0x00000000；0,00
 P1.959.0.0；System.Single；0x00000000；0,00
 P1.967.0.0；System.Single；0x3F800000；1,00
 P1.968.0.0；System.Single；0x3F800000；1,00
-P1.969.0.0；System.Single；0x00000000；0,00
-P1.973.0.0；System.Single；0x39D3CFF6；0,000404
+P1.969.0.0；System.Single；0x3F86E5AE；1,053884
+P1.973.0.0；System.Single；0x3B31BF8E；0,002712223
 P1.976.0.0；System.Single；0x00000000；0,00
 P1.976.0.1；System.Single；0x00000000；0,00
 P1.976.0.2；System.Single；0x00000000；0,00
@@ -2232,7 +2232,7 @@ P1.1174.0.2；System.Boolean；False；False
 P1.1175.0.0；System.Boolean；False；False
 P1.1191.0.0；System.UInt32；0x00029110；168208
 P1.1192.0.0；System.String；ELGD-TB-KF-80-2000-0H-PU2；ELGD-TB-KF-80-2000-0H-PU2
-P1.1193.0.0；System.Single；0x00000000；0,00
+P1.1193.0.0；System.Single；0x40A00000；5,00
 P1.1194.0.0；System.UInt32；0x0000001B；27
 P1.1195.0.0；System.UInt32；0x000000C8；200
 P1.1196.0.0；System.Int64；0x00000004A817C800；2000,00
@@ -6480,4 +6480,4 @@ P1.112415990.0.0；System.UInt16；0x0000；0
 P1.112417990.0.0；System.UInt16；0x0000；0
 P1.201.0.0；System.Single；0x3F800000；1,00
 P1.202.0.0；System.Single；0x00000000；0,00
-h+352gTMS/l0LnNjF0PGUp/yTVAc3IrmQCTLXbxSweQzg+ojroydhnLYjwjAW5RbdOG2AdOfdf8C1ru57oSxxqKTQ3czrJmHY2g0bTTRrGcleP1cCvKPL59Fs0K/4FeEWpwr8gT7xZydjbMXI1LQXEtHCw1aYlCKiYUjp4j87nIOGQWARsSGTKsq3pATl6TwQeahj1WnEblmlHNZ3RmzTkbY8PiS2iqN6iqEMrxXieGqCDRtIgGC66mX1tEyzWmnChPMQ+TDelBFqXtQX+X3sh26+TLmj0CtVglkINGOD0AbIpiy5eVyTypXdK3Zz71tM5QQfV/hwRJodDyirsoFdrlqgKVcFOzxNOSvF1MAQWWyKReYv4Sc5wm4ZqC3IuKunxItD4zAYvqcORwtnJhpo4en4PJecJElrnw35YO5Zji2ef9aShQnyRvvzuiwudC+k+KXL9wrTOf3lyCizqNtl/V6aalpYT30EO5chQNghu7bSJnwDsDm7Zzju00/5uHcjijlYYhcjTGZG3OK8vqakOBSjQoQKtF6nNsqWAn0FevncQf2+dVvtpbWKXHKW/1gYZk4tb+SsDf/Py+dR4okZexwtJGjwiy/eTMCbP1ucBjK9fKiBwy//X5hG/TUqoxQw6ZUC8Ji+va0ocfW+dX3/JAhMKBZ6EKovCLSwlNChNk=
+JikXjTBOqhL7ofg0/un7fg8SOOyL7iRm0QochnDk8VIORsm0voFlXyG3Mq2/NFWJAKb5e6OIh0lvbsiyRHhIhBw4z+4fiLlRDSnB7tdgv6RklEOd1J5me4s0kX4hn9laOT2ZKjIRBpKVDlryR3aiSPW0GHsZUwUiPJdJaCK5Sx1cHtMNdm1S945CV88LkvKqxNTTCtUzl9/zA7ClqP2SwMIWZ+gQ1XG9hZjNRbbxtQcPZ//DgKWjuctBaY+61WhZR2uJM1UQLj2EptWlgTWhkymiV0HevWdt/WWDeYYOzEA2B/IFzLjc4J0K7qs59uhQXH3/uSfl9hNh+eWZZ3zA+kL9sqKdiWMRJBozGwE6v6nvN0PR2pMySxI22gHddQu4vg2hRN8LzO0HZNesrSctHVCsDAf3WDMLBnZXzM2OnwBbShZz3zrBiJpxyDNipQzL4sc9H4Ro5+jbXQHq0QpQzq07AtWEZ8YZ6yjSDgMYyi3tiUgF6W5aI+XnWBcvTmA4C75k/67cAuQNpO0pGzyxACYA3Au2d5XgqoBIIR+Eqz38+n/Y2l4sn+pdGU/A+CbwiNKlBQIGe/eZ7ZuQC75PPpQbovqDtuzvMgLiQlvVm9oBsv0E7H1do8UlDHo6JO+Wk06/0bWVyvADOSHf6l5z6yXUhDL/cHnX1wntgjc5YHo=
