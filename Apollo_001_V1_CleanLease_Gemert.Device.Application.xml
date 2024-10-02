@@ -16,6 +16,9 @@
         <Node name="AI_Done" type="T_BOOL" access="ReadWrite" />
         <Node name="AI_Start" type="T_BOOL" access="ReadWrite" />
         <Node name="AI_USE_TestProd" type="T_BOOL" access="ReadWrite" />
+        <Node name="Conveyor_Pick_Move_Left" type="T_BOOL" access="ReadWrite" />
+        <Node name="Conveyor_Pick_Move_Right" type="T_BOOL" access="ReadWrite" />
+        <Node name="Conveyor_Pick_Time" type="T_INT" access="ReadWrite" />
         <Node name="Current_Pos_Inner" type="T_LREAL" access="ReadWrite" />
         <Node name="Current_Pos_Outer" type="T_LREAL" access="ReadWrite" />
         <Node name="Gripper" type="T_BOOL" access="ReadWrite" />
@@ -34,8 +37,12 @@
         <Node name="Test_Pos_Inner_Rail" type="T_LREAL" access="ReadWrite" />
         <Node name="Test_Pos_Outer_Rail" type="T_LREAL" access="ReadWrite" />
         <Node name="Test_Time_Move_Pick_Conveyor" type="T_INT" access="ReadWrite" />
+        <Node name="Test_Ventilator" type="T_BOOL" access="ReadWrite" />
         <Node name="Turn_Off" type="T_BOOL" access="ReadWrite" />
         <Node name="Turn_On" type="T_BOOL" access="ReadWrite" />
+      </Node>
+      <Node name="Parameters">
+        <Node name="Conveyor_Speed_Pick" type="T_INT" access="ReadWrite" />
       </Node>
     </Node>
   </NodeList>

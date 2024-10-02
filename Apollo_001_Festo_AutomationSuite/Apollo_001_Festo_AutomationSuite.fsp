@@ -3,7 +3,7 @@
   "PreviewImagePath": "Resources/Apollo_001_Festo_AutomationSuite",
   "Description": null,
   "CreationDate": "2024-08-09T10:25:25.9390472+02:00",
-  "ModifiedDate": "2024-09-27T19:02:12.1899556+02:00",
+  "ModifiedDate": "2024-10-01T23:11:31.8506498+02:00",
   "CreationUser": "RobinvanNieuwenhuyse",
   "ModifiedUser": "RobinvanNieuwenhuyse",
   "Tools": [
@@ -12,8 +12,7 @@
   "Components": [
     "1b293d45-a923-48df-811f-89c95763e8c9",
     "9295cc83-e268-41e0-8e46-a4e79831e2a5",
-    "a4bab14c-61c3-48a5-bc40-385054c1a9e7",
-    "3d1a226c-689b-4701-9686-a7af85eba925"
+    "a4bab14c-61c3-48a5-bc40-385054c1a9e7"
   ],
   "Resources": [
     {
