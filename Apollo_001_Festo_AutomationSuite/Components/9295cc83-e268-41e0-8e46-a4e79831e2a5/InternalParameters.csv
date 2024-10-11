@@ -4,10 +4,10 @@
 #SeparatorSign:；
 #SystemDecimalSeparator:,
 Address；Type；Value；BindableValueText
-I16；System.Single；0x40000831；2,0005
-I20；System.Single；0x3FC01893；1,50075
+I16；System.Single；0x40A00000；5,00
+I20；System.Single；0x3FC028F6；1,50125
 I24；Festo.Tool.XMLHandler.XMLInterpreterBase.Data.EnumEntry:SimulationResult；0；Ok
-I30；Festo.Tool.XMLHandler.XMLInterpreterBase.Data.EnumEntry:SimulationCondition；5；OnlineOptimizedValuesManuallyChanged
+I30；Festo.Tool.XMLHandler.XMLInterpreterBase.Data.EnumEntry:SimulationCondition；4；OnlineOptimizedValues
 I39；Festo.Tool.XMLHandler.XMLInterpreterBase.Data.EnumEntry:SimulationCondition；0；DefaultValues
 I40；Festo.Tool.XMLHandler.XMLInterpreterBase.Data.EnumEntry:SimulationCondition；0；DefaultValues
 I41；Festo.Tool.XMLHandler.XMLInterpreterBase.Data.EnumEntry:SimulationCondition；0；DefaultValues
@@ -18,9 +18,9 @@ I45；System.Single；0x00000000；0,00
 I48；Festo.Tool.XMLHandler.XMLInterpreterBase.Data.EnumEntry:MountingPositionTwoPossibilitiesConfiguration；2；Left
 I49；Festo.Tool.XMLHandler.XMLInterpreterBase.Data.EnumEntry:MountingPositionFourPossibilitiesConfiguration；1；UpperLeft
 I82；Festo.Tool.XMLHandler.XMLInterpreterBase.Data.EnumEntry:MountingPositionSixPossibilitiesConfiguration；1；UpperAxisUpperLeft
-I85；System.Single；0x00000000；0,00
+I85；System.Single；0x3F333333；0,70
 I86；Festo.Tool.XMLHandler.XMLInterpreterBase.Data.EnumEntry:MountingOrientationPossibilities；2；Vertical
-I87；System.Boolean；True；True
+I87；System.Boolean；False；False
 I23.0；System.String；；
 I23.1；System.String；；
 I23.2；System.String；；
@@ -153,4 +153,4 @@ I23.124；System.String；；
 I23.125；System.String；；
 I23.126；System.String；；
 I23.127；System.String；；
-iQscF6vZIq+pZzVbV2my9Fb+0odAwpzcY/6Pwjrokxu9fsjDqlCAQaLRaS8KOT32Dyi03ZPADM1QcIG9OO1bWRxXh3rzvlkvMlmuQFdB/zGx0JU1UUI5w9iqazsgILyYDntKvJ9FeAaFCCnXLXj0OnWqh1O7Hy98TF36tIWr6BMmB4aqUcAcwn94VP+bkDBTUsSpwDoDdPpcn4mZRV3aDBsUsw+Ag/RVBoAxsxofAzeQmMBTVu4CzZBO2D5KGdsYkNo0j8Duk61aNway8UHqxgW4eTFb4Yn7urDU9u4eECWoYtrZJBeGhEwJ0nJCXTRS4bec3i7oHAOdFoeIXKljQ9G8jOngThvthz3eTmKBWOCt9FXVfksEk8BVzfH022hE/6Z80MV2eQmoCgz9bJfU7o3lF1u4d060MQO1p7db8hcXP2IoCfEnFrsnh5NBNFHrlBBJRq7CiuxamGRmwiB1tZ2W/9lSjphqnyhROlE8v1ba0creh599h8L+WBY+Gy7QJXQVegKcgrGNqMc8YPB9Xiv3AW2Lk9V5JbKDZeZ86d3kh1tzuqUrw7Koz/yvB+NGUrrrCwsHy+Kh3UbSi1gwJhgIDlxJ+DvFDdUOjpStCTF7nSy8UXVFZIhW1+H8BMODWC/qwsPTa13SpOsRHviGHXT3g2nzZcF5lU0SmVgJCWQ=
+fccCD5UpfgyC69JPcKvORP6COUaEnrFq8cnFZKftluYf68aSzQrV5xYXq84w5Wm8uidQgpm+KMFZGXrymtxNnVrDWeQ6l2PB4pVWZg8eHhjY3uLmZJfQgghAUf/kzHf3GwH430eozliDutmBhWzMmrpNSxnuks2LfPr1Ne0rriv2nq1FfnQiSXjsAaHkIQoVJAHLeZswN2+94WDQ2IhZxHBtlTalk5tx7/DTTi2Ber5e46xFediwfTKDUErOyptw1M11bxt6lKi+d2z4F/Tseu815mPEmeDVObVSomXIws34zmBcXx73FJFwvCvJkA44bhIAWqS9BPQxV7PWjL7AhihsCwW7Xcgw52k6SGotjM/DXjt/T+lDwjjjzMr0RGaOeapccTYyVoriaOU3NXthVed+wrexFVtYlzklPRfWKLGy+QxK6UaYEQqlk4DTSSQeFN6Y0DCJTtKQnBniaIoo3estOr9y1hHoNg/Xvibxc38DV8QMQPIEctk9SbNmEQTaU8U+8SrBSnRkjYXUwRWXY+h4xfqcaJ79DaxyFAU0WQWtOxs/+1+rGzZGNTLxo5QtndLD+PxU6Oazh+YXAtFCHQy3JkCXmBCYWDUWMEhAMXYS1T9+L0PZnstPFITJx5jMKhoplKWEJ/mTSI+5OTCZt3LA7YdlqmfRhWcS+SdaHj8=
