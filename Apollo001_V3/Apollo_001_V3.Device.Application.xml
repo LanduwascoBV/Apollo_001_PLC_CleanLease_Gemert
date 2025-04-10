@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbolconfiguration xmlns="http://www.3s-software.com/schemas/Symbolconfiguration.xsd">
+  <Header>
+    <Version>3.5.14.0</Version>
+    <SymbolConfigObject version="4.5.2.0" runtimeid="3.5.16.40" libversion="3.5.16.0" compiler="3.5.21.0" lmm="3.5.21.0" profile="CODESYS V3.5 SP21+" settings="SupportOPCUA, LayoutCalculator=OptimizedClientSideLayoutCalculator" />
+    <ProjectInfo name="Apollo_001_V3" devicename="Device" appname="Application" />
+  </Header>
+  <TypeList>
+    <TypeSimple name="T_BOOL" size="1" swapsize="0" typeclass="Bool" iecname="BOOL" />
+    <TypeSimple name="T_INT" size="2" swapsize="2" typeclass="Int" iecname="INT" />
+    <TypeSimple name="T_LREAL" size="8" swapsize="8" typeclass="LReal" iecname="LREAL" />
+  </TypeList>
+  <NodeList>
+    <Node name="Application">
+      <Node name="GVL_1">
+        <Node name="AI_Done" type="T_BOOL" access="ReadWrite" />
+        <Node name="AI_Start" type="T_BOOL" access="ReadWrite" />
+        <Node name="AI_USE_TestProd" type="T_BOOL" access="ReadWrite" />
+        <Node name="Conveyor_Pick_Move_Left" type="T_BOOL" access="ReadWrite" />
+        <Node name="Conveyor_Pick_Move_Right" type="T_BOOL" access="ReadWrite" />
+        <Node name="Conveyor_Pick_Time" type="T_INT" access="ReadWrite" />
+        <Node name="Current_Pos_Inner" type="T_LREAL" access="ReadWrite" />
+        <Node name="Current_Pos_Outer" type="T_LREAL" access="ReadWrite" />
+        <Node name="Gripper" type="T_BOOL" access="ReadWrite" />
+        <Node name="Machine_In_Error" type="T_BOOL" access="ReadWrite" />
+        <Node name="Machine_Ready_To_Run" type="T_BOOL" access="ReadWrite" />
+        <Node name="Machine_Test_Mode" type="T_BOOL" access="ReadWrite" />
+        <Node name="Machine_TestProd_Mode" type="T_BOOL" access="ReadWrite" />
+        <Node name="Pick_Pos_Inner" type="T_INT" access="ReadWrite" />
+        <Node name="Pick_Pos_Outer" type="T_INT" access="ReadWrite" />
+        <Node name="Reset" type="T_BOOL" access="ReadWrite" />
+        <Node name="Test_Conveyor_Pick_Choose_Speed" type="T_INT" access="ReadWrite" />
+        <Node name="Test_Move" type="T_BOOL" access="ReadWrite" />
+        <Node name="Test_Pick_Conveyor" type="T_BOOL" access="ReadWrite" />
+        <Node name="Test_Pick_Conveyor_Left" type="T_BOOL" access="ReadWrite" />
+        <Node name="Test_Pick_Conveyor_Right" type="T_BOOL" access="ReadWrite" />
+        <Node name="Test_Pos_Inner_Rail" type="T_LREAL" access="ReadWrite" />
+        <Node name="Test_Pos_Outer_Rail" type="T_LREAL" access="ReadWrite" />
+        <Node name="Test_Time_Move_Pick_Conveyor" type="T_INT" access="ReadWrite" />
+        <Node name="Test_Ventilator" type="T_BOOL" access="ReadWrite" />
+        <Node name="Turn_Off" type="T_BOOL" access="ReadWrite" />
+        <Node name="Turn_On" type="T_BOOL" access="ReadWrite" />
+      </Node>
+      <Node name="Parameters">
+        <Node name="Conveyor_Speed_Pick" type="T_INT" access="ReadWrite" />
+      </Node>
+    </Node>
+  </NodeList>
+</Symbolconfiguration>

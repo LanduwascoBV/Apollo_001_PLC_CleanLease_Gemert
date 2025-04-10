@@ -446,6 +446,7 @@
             "$id": "18",
             "Id": "c6996a50-aad6-469a-aa5d-a2649ec134dd",
             "Name": "CPX-E-8DO",
+            "IconMarkup": "<?xml version='1.0' encoding='UTF-8'?><Canvas Tag=\"CPX-E-8DO\" Width=\"22\" Height=\"121\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\" xmlns:attachedProperties=\"clr-namespace:Festo.Suite.Design.AttachedProperties;assembly=Festo.Suite.Design\" VerticalAlignment=\"Top\"><Canvas Tag=\"Base\" IsHitTestVisible=\"False\"><Canvas Tag=\"Spacer\"><Rectangle Tag=\"Spacer-2\" Width=\"2\" Height=\"121\" Canvas.Left=\"0\" Canvas.Top=\"0\" /></Canvas><Rectangle Tag=\"Base-2\" Width=\"20\" Height=\"121\" Fill=\"#FFF2F3F5\" Canvas.Left=\"2\" Canvas.Top=\"0\" /><Rectangle Tag=\"Middle\" Width=\"20\" Height=\"89\" Fill=\"#FFE5E8EB\" Canvas.Left=\"2\" Canvas.Top=\"23\" /><Rectangle Tag=\"Top\" Width=\"20\" Height=\"21\" Fill=\"#FFE5E8EB\" Canvas.Left=\"2\" Canvas.Top=\"0\" /><Rectangle Tag=\"Bottom\" Width=\"20\" Height=\"7\" Fill=\"#FFE5E8EB\" Canvas.Left=\"2\" Canvas.Top=\"114\" /></Canvas><Canvas Tag=\"I/O Connectors\" IsHitTestVisible=\"False\"><Canvas Tag=\"Lower\"><Rectangle Tag=\"Right\" Width=\"5\" Height=\"10\" Fill=\"#FFB6BEC6\" Canvas.Left=\"13\" Canvas.Top=\"100.0\" /><Rectangle Tag=\"Left\" Width=\"5\" Height=\"10\" Fill=\"#FFB6BEC6\" Canvas.Left=\"6\" Canvas.Top=\"100.0\" /></Canvas><Canvas Tag=\"Upper\"><Rectangle Tag=\"Right-2\" Width=\"5\" Height=\"41\" Fill=\"#FFB6BEC6\" Canvas.Left=\"13\" Canvas.Top=\"25\" /><Rectangle Tag=\"Left-2\" Width=\"5\" Height=\"41\" Fill=\"#FFB6BEC6\" Canvas.Left=\"6\" Canvas.Top=\"25\" /></Canvas></Canvas><Rectangle Tag=\"LEDs\" Width=\"6\" Height=\"15\" Fill=\"#FFB6BEC6\" Canvas.Left=\"6\" Canvas.Top=\"4\" IsHitTestVisible=\"False\" /><Rectangle Tag=\"LEDs-2\" Width=\"6\" Height=\"10\" Fill=\"#FFB6BEC6\" Canvas.Left=\"12\" Canvas.Top=\"9\" IsHitTestVisible=\"False\" /></Canvas>",
             "Product": {
               "$ref": "10"
             }
@@ -454,6 +455,7 @@
             "$id": "19",
             "Id": "626ec764-b689-4143-bd74-66c48d363192",
             "Name": "CPX-E-8DO",
+            "IconMarkup": "<?xml version='1.0' encoding='UTF-8'?><Canvas Tag=\"CPX-E-8DO\" Width=\"22\" Height=\"121\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\" xmlns:attachedProperties=\"clr-namespace:Festo.Suite.Design.AttachedProperties;assembly=Festo.Suite.Design\" VerticalAlignment=\"Top\"><Canvas Tag=\"Base\" IsHitTestVisible=\"False\"><Canvas Tag=\"Spacer\"><Rectangle Tag=\"Spacer-2\" Width=\"2\" Height=\"121\" Canvas.Left=\"0\" Canvas.Top=\"0\" /></Canvas><Rectangle Tag=\"Base-2\" Width=\"20\" Height=\"121\" Fill=\"#FFF2F3F5\" Canvas.Left=\"2\" Canvas.Top=\"0\" /><Rectangle Tag=\"Middle\" Width=\"20\" Height=\"89\" Fill=\"#FFE5E8EB\" Canvas.Left=\"2\" Canvas.Top=\"23\" /><Rectangle Tag=\"Top\" Width=\"20\" Height=\"21\" Fill=\"#FFE5E8EB\" Canvas.Left=\"2\" Canvas.Top=\"0\" /><Rectangle Tag=\"Bottom\" Width=\"20\" Height=\"7\" Fill=\"#FFE5E8EB\" Canvas.Left=\"2\" Canvas.Top=\"114\" /></Canvas><Canvas Tag=\"I/O Connectors\" IsHitTestVisible=\"False\"><Canvas Tag=\"Lower\"><Rectangle Tag=\"Right\" Width=\"5\" Height=\"10\" Fill=\"#FFB6BEC6\" Canvas.Left=\"13\" Canvas.Top=\"100.0\" /><Rectangle Tag=\"Left\" Width=\"5\" Height=\"10\" Fill=\"#FFB6BEC6\" Canvas.Left=\"6\" Canvas.Top=\"100.0\" /></Canvas><Canvas Tag=\"Upper\"><Rectangle Tag=\"Right-2\" Width=\"5\" Height=\"41\" Fill=\"#FFB6BEC6\" Canvas.Left=\"13\" Canvas.Top=\"25\" /><Rectangle Tag=\"Left-2\" Width=\"5\" Height=\"41\" Fill=\"#FFB6BEC6\" Canvas.Left=\"6\" Canvas.Top=\"25\" /></Canvas></Canvas><Rectangle Tag=\"LEDs\" Width=\"6\" Height=\"15\" Fill=\"#FFB6BEC6\" Canvas.Left=\"6\" Canvas.Top=\"4\" IsHitTestVisible=\"False\" /><Rectangle Tag=\"LEDs-2\" Width=\"6\" Height=\"10\" Fill=\"#FFB6BEC6\" Canvas.Left=\"12\" Canvas.Top=\"9\" IsHitTestVisible=\"False\" /></Canvas>",
             "Product": {
               "$ref": "10"
             }
@@ -462,6 +464,7 @@
             "$id": "20",
             "Id": "3315c0dd-4d09-476d-b6ca-b14554818342",
             "Name": "CPX-E-4AO-U-I",
+            "IconMarkup": "<?xml version='1.0' encoding='UTF-8'?><Canvas Tag=\"CPX-E-4AO-U-I\" Width=\"22\" Height=\"121\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\" xmlns:attachedProperties=\"clr-namespace:Festo.Suite.Design.AttachedProperties;assembly=Festo.Suite.Design\" VerticalAlignment=\"Top\"><Canvas Tag=\"Base\" IsHitTestVisible=\"False\"><Canvas Tag=\"Spacer\"><Rectangle Tag=\"Spacer-2\" Width=\"2\" Height=\"121\" Canvas.Left=\"0\" Canvas.Top=\"0\" /></Canvas><Rectangle Tag=\"Base-2\" Width=\"20\" Height=\"121\" Fill=\"#FFF2F3F5\" Canvas.Left=\"2\" Canvas.Top=\"0\" /><Rectangle Tag=\"Middle\" Width=\"20\" Height=\"89\" Fill=\"#FFE5E8EB\" Canvas.Left=\"2\" Canvas.Top=\"23\" /><Rectangle Tag=\"Top\" Width=\"20\" Height=\"21\" Fill=\"#FFE5E8EB\" Canvas.Left=\"2\" Canvas.Top=\"0\" /><Rectangle Tag=\"Bottom\" Width=\"20\" Height=\"7\" Fill=\"#FFE5E8EB\" Canvas.Left=\"2\" Canvas.Top=\"114\" /></Canvas><Canvas Tag=\"I/O Connectors\" IsHitTestVisible=\"False\"><Canvas Tag=\"Lower\"><Rectangle Tag=\"Right\" Width=\"5\" Height=\"20\" Fill=\"#FFB6BEC6\" Canvas.Left=\"13\" Canvas.Top=\"90\" /><Rectangle Tag=\"Left\" Width=\"5\" Height=\"20\" Fill=\"#FFB6BEC6\" Canvas.Left=\"6\" Canvas.Top=\"90\" /></Canvas><Canvas Tag=\"Upper\"><Rectangle Tag=\"Right-2\" Width=\"5\" Height=\"41\" Fill=\"#FFB6BEC6\" Canvas.Left=\"13\" Canvas.Top=\"25\" /><Rectangle Tag=\"Left-2\" Width=\"5\" Height=\"41\" Fill=\"#FFB6BEC6\" Canvas.Left=\"6\" Canvas.Top=\"25\" /></Canvas></Canvas><Rectangle Tag=\"LEDs\" Width=\"6\" Height=\"15\" Fill=\"#FFB6BEC6\" Canvas.Left=\"6\" Canvas.Top=\"4\" IsHitTestVisible=\"False\" /></Canvas>",
             "Product": {
               "$ref": "12"
             }
@@ -470,6 +473,7 @@
             "$id": "21",
             "Id": "3c9bbe28-b2c8-457d-95ee-23e8e677d1e1",
             "Name": "CPX-E-16DI",
+            "IconMarkup": "<?xml version='1.0' encoding='UTF-8'?><Canvas Tag=\"CPX-E-16DI\" Width=\"22\" Height=\"121\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\" xmlns:attachedProperties=\"clr-namespace:Festo.Suite.Design.AttachedProperties;assembly=Festo.Suite.Design\" VerticalAlignment=\"Top\"><Canvas Tag=\"Base\" IsHitTestVisible=\"False\"><Canvas Tag=\"Spacer\"><Rectangle Tag=\"Spacer-2\" Width=\"2\" Height=\"121\" Canvas.Left=\"0\" Canvas.Top=\"0\" /></Canvas><Rectangle Tag=\"Base-2\" Width=\"20\" Height=\"121\" Fill=\"#FFF2F3F5\" Canvas.Left=\"2\" Canvas.Top=\"0\" /><Rectangle Tag=\"Middle\" Width=\"20\" Height=\"89\" Fill=\"#FFE5E8EB\" Canvas.Left=\"2\" Canvas.Top=\"23\" /><Rectangle Tag=\"Top\" Width=\"20\" Height=\"21\" Fill=\"#FFE5E8EB\" Canvas.Left=\"2\" Canvas.Top=\"0\" /><Rectangle Tag=\"Bottom\" Width=\"20\" Height=\"7\" Fill=\"#FFE5E8EB\" Canvas.Left=\"2\" Canvas.Top=\"114\" /></Canvas><Canvas Tag=\"I/O Connectors\" IsHitTestVisible=\"False\"><Rectangle Tag=\"Right\" Width=\"5\" Height=\"85\" Fill=\"#FFB6BEC6\" Canvas.Left=\"13\" Canvas.Top=\"25\" /><Rectangle Tag=\"Left\" Width=\"5\" Height=\"85\" Fill=\"#FFB6BEC6\" Canvas.Left=\"6\" Canvas.Top=\"25\" /></Canvas><Rectangle Tag=\"LEDs\" Width=\"6\" Height=\"15\" Fill=\"#FFB6BEC6\" Canvas.Left=\"6\" Canvas.Top=\"4\" IsHitTestVisible=\"False\" /><Rectangle Tag=\"LEDs-2\" Width=\"6\" Height=\"10\" Fill=\"#FFB6BEC6\" Canvas.Left=\"12\" Canvas.Top=\"9\" IsHitTestVisible=\"False\" /></Canvas>",
             "Product": {
               "$ref": "11"
             }
@@ -731,7 +735,7 @@
             }
           ]
         },
-        "Position": "9580,5270",
+        "Position": "9580,5280",
         "Actions": "DontOpenToolOnDelete",
         "CatalogPath": "CMMT-AS-C5-11A-P3-MP-S1",
         "ImportProductCatalog": [
@@ -755,7 +759,7 @@
                 "Value": "DeviceScan"
               },
               {
-                "$valuetype": "Festo.Connection.Contract.Device.ConnectionString[], Festo.Connection.Contract, Version=2.8.0.6, Culture=neutral, PublicKeyToken=null",
+                "$valuetype": "Festo.Connection.Contract.Device.ConnectionString[], Festo.Connection.Contract, Version=2.9.0.11, Culture=neutral, PublicKeyToken=null",
                 "Name": "ConnectionStrings",
                 "Value": [
                   {
@@ -4330,10 +4334,6 @@
                     "$valuetype": "System.Guid",
                     "Name": "CodesysDeviceObjectId",
                     "Value": "b3666b66-755b-45dd-9f27-422bd859273f"
-                  },
-                  {
-                    "Name": "CodesysDeviceAccessRight",
-                    "Value": "Write"
                   }
                 ]
               },
@@ -4414,8 +4414,7 @@
         ],
         "MainEngineeringComponent": {
           "$ref": "572"
-        },
-        "ParameterSet": []
+        }
       },
       {
         "$id": "579",
@@ -4687,7 +4686,7 @@
                 "Value": "DeviceScan"
               },
               {
-                "$valuetype": "Festo.Connection.Contract.Device.ConnectionString[], Festo.Connection.Contract, Version=2.8.0.6, Culture=neutral, PublicKeyToken=null",
+                "$valuetype": "Festo.Connection.Contract.Device.ConnectionString[], Festo.Connection.Contract, Version=2.9.0.11, Culture=neutral, PublicKeyToken=null",
                 "Name": "ConnectionStrings",
                 "Value": [
                   {
@@ -8184,10 +8183,6 @@
                     "$valuetype": "System.Guid",
                     "Name": "CodesysDeviceObjectId",
                     "Value": "47a0f518-e3c1-4269-9e15-503d9423db84"
-                  },
-                  {
-                    "Name": "CodesysDeviceAccessRight",
-                    "Value": "Write"
                   }
                 ]
               },
@@ -8282,13 +8277,863 @@
         ],
         "MainEngineeringComponent": {
           "$ref": "1116"
+        }
+      },
+      {
+        "$id": "1124",
+        "Id": "cf405e23-d81b-4b09-a96d-7105320aea15",
+        "Name": "CMMT-AS-C2-3A-MP-S1",
+        "ToolGuid": "cc0c8c4e-e21d-4f82-b0ff-30882eec7e9a",
+        "ImageKey": "8143163",
+        "ConnectionString": {
+          "$id": "1125",
+          "Name": "eth0",
+          "Type": "IPv4",
+          "Value": "192.168.0.4",
+          "Parameters": [
+            {
+              "Key": "DeviceName",
+              "Value": "CMMT-AS-C2-3A-MP-S1 (X18)"
+            },
+            {
+              "Key": "Subnetmask",
+              "Value": "255.255.255.0"
+            },
+            {
+              "Key": "DHCP",
+              "Value": "False"
+            },
+            {
+              "Key": "Gateway",
+              "Value": "0.0.0.0"
+            },
+            {
+              "Key": "DNS",
+              "Value": "0.0.0.0"
+            },
+            {
+              "Key": "DeviceType",
+              "Value": "CMMT-AS-C2-3A-MP-S1"
+            },
+            {
+              "Key": "DeviceTypeDisplayName",
+              "Value": "CMMT-AS-C2-3A-MP-S1"
+            },
+            {
+              "Key": "ProtocolName",
+              "Value": "FestoGenericMulticast"
+            },
+            {
+              "Key": "MAC",
+              "Value": "00:0E:F0:96:5B:08"
+            },
+            {
+              "Key": "SerialNumber",
+              "Value": ""
+            },
+            {
+              "Key": "SWVersion",
+              "Value": "V034.0.13.18_Release"
+            },
+            {
+              "Key": "AppVersion",
+              "Value": "V034.0.13.18_Release"
+            },
+            {
+              "Key": "DeviceDescription",
+              "Value": "Devicename:\tCMMT-AS-C2-3A-MP-S1 (X18)\r\nDevicetype:\tCMMT-AS-C2-3A-MP-S1\r\nSerialnumber:\t\r\nProductKey:\tLD7Y62RK46Q\r\nPartnumber:\t8143163\r\nOrder Code:\t\tCMMT-AS-C2-3A-MP-S1\r\nFirmware:\tV034.0.13.18_Release\r\n\r\nDHCP:\t\tno\r\nIP Address:\t192.168.0.4\r\nIP Netmask:\t255.255.255.0\r\nGateway:\t0.0.0.0\r\nDNS:\t\t0.0.0.0\r\nMAC:\t\t00:0E:F0:96:5B:08\r\n\r\nGeneric info:\t00:00:00:00:00:00\r\n\t\t00:00:00:00:00:00"
+            },
+            {
+              "Key": "IpAddressConfigPossibility",
+              "Value": "3"
+            },
+            {
+              "Key": "IsPwdRequired",
+              "Value": "False"
+            },
+            {
+              "Key": "IsParallelDownloadSupported",
+              "Value": "True"
+            },
+            {
+              "Key": "IsIdentifyRunning",
+              "Value": "False"
+            },
+            {
+              "Key": "ENGPoverENGTSupported",
+              "Value": "False"
+            },
+            {
+              "Key": "ENGPSupported",
+              "Value": "False"
+            },
+            {
+              "Key": "HardwareTypeName",
+              "Value": "CMMT-AS-MP"
+            },
+            {
+              "Key": "NocCode",
+              "Value": "CMMT-AS-C2-3A-MP-S1"
+            },
+            {
+              "Key": "IsHomepageSupported",
+              "Value": "True"
+            },
+            {
+              "Key": "MessageBeforeDownload",
+              "Value": "Do you really want to download the firmware '{0}' to the device '{1}'?"
+            },
+            {
+              "Key": "IsDeviceNameSettingPossible",
+              "Value": "True"
+            },
+            {
+              "Key": "IsDnsSettingPossible",
+              "Value": "False"
+            },
+            {
+              "Key": "Debug_ApplicationType",
+              "Value": "8143163"
+            },
+            {
+              "Key": "Debug_IpAddress",
+              "Value": "0"
+            },
+            {
+              "Key": "Debug_StaticIpAddress",
+              "Value": "-1062731772"
+            },
+            {
+              "Key": "Debug_Gateway",
+              "Value": "0"
+            },
+            {
+              "Key": "Debug_StaticSubnetmask",
+              "Value": "-256"
+            },
+            {
+              "Key": "Debug_StaticGateway",
+              "Value": "0"
+            },
+            {
+              "Key": "Debug_DNSserver",
+              "Value": "0"
+            },
+            {
+              "Key": "Debug_StaticDNSserver",
+              "Value": "0"
+            },
+            {
+              "Key": "Debug_DevicePassword",
+              "Value": ""
+            },
+            {
+              "Key": "Debug_State",
+              "Value": "0"
+            },
+            {
+              "Key": "Debug_SubState",
+              "Value": "0"
+            },
+            {
+              "Key": "Debug_ProtocolName",
+              "Value": "FestoGenericMulticast"
+            },
+            {
+              "Key": "Debug_DeviceState",
+              "Value": "0"
+            },
+            {
+              "Key": "Debug_AddressType",
+              "Value": "0"
+            },
+            {
+              "Key": "Debug_DeviceName",
+              "Value": "CMMT-AS-C2-3A-MP-S1 (X18)"
+            },
+            {
+              "Key": "Debug_Address",
+              "Value": "-1062731772"
+            },
+            {
+              "Key": "Debug_Subnetmask",
+              "Value": "-256"
+            },
+            {
+              "Key": "Debug_DeviceType",
+              "Value": "CMMT-AS-C2-3A-MP-S1"
+            },
+            {
+              "Key": "Debug_DeviceTypeDisplayName",
+              "Value": "CMMT-AS-C2-3A-MP-S1"
+            },
+            {
+              "Key": "Debug_AppVersion",
+              "Value": "V034.0.13.18_Release"
+            },
+            {
+              "Key": "Debug_MAC",
+              "Value": "00:0E:F0:96:5B:08"
+            },
+            {
+              "Key": "Debug_SerialNumber",
+              "Value": ""
+            },
+            {
+              "Key": "Debug_ProductKey",
+              "Value": "LD7Y62RK46Q"
+            },
+            {
+              "Key": "Debug_PartNumber",
+              "Value": "8143163"
+            },
+            {
+              "Key": "Debug_NOC",
+              "Value": "CMMT-AS-C2-3A-MP-S1"
+            },
+            {
+              "Key": "Debug_HardwareTypeId",
+              "Value": "23"
+            },
+            {
+              "Key": "Debug_SWVersion",
+              "Value": "V034.0.13.18_Release"
+            },
+            {
+              "Key": "Debug_HWVersion",
+              "Value": ""
+            },
+            {
+              "Key": "Debug_DestinationId",
+              "Value": "30304530304636394235383000000000"
+            },
+            {
+              "Key": "Debug_UnscannedFavorite",
+              "Value": "False"
+            },
+            {
+              "Key": "Debug_DiagnoseState",
+              "Value": "14"
+            },
+            {
+              "Key": "Debug_UnicastReachable",
+              "Value": "False"
+            },
+            {
+              "Key": "Debug_Favorite",
+              "Value": "15"
+            }
+          ]
+        },
+        "Position": "9760,5280",
+        "Actions": "DontOpenToolOnDelete",
+        "CatalogPath": "CMMT-AS-C2-3A-MP-S1",
+        "ImportProductCatalog": [
+          {
+            "$id": "1126",
+            "Id": "d40af782-2095-4297-9ffa-da3fbb158b69",
+            "OrderCode": "CMMT-AS-C2-3A-MP-S1",
+            "PartNumber": "8143163"
+          }
+        ],
+        "ImportComponents": [
+          {
+            "$id": "1127",
+            "Id": "b02eda16-ed6f-49d4-894b-6381f61c35bf",
+            "Product": {
+              "$ref": "1126"
+            },
+            "ParameterSet": [
+              {
+                "Name": "Source",
+                "Value": "DeviceScan"
+              },
+              {
+                "$valuetype": "Festo.Connection.Contract.Device.ConnectionString[], Festo.Connection.Contract, Version=2.9.0.11, Culture=neutral, PublicKeyToken=null",
+                "Name": "ConnectionStrings",
+                "Value": [
+                  {
+                    "$id": "1128",
+                    "Name": "eth0",
+                    "Type": "IPv4",
+                    "Value": "192.168.0.4",
+                    "Parameters": [
+                      {
+                        "Key": "DeviceName",
+                        "Value": "CMMT-AS-C2-3A-MP-S1 (X18)"
+                      },
+                      {
+                        "Key": "Subnetmask",
+                        "Value": "255.255.255.0"
+                      },
+                      {
+                        "Key": "DHCP",
+                        "Value": "False"
+                      },
+                      {
+                        "Key": "Gateway",
+                        "Value": "0.0.0.0"
+                      },
+                      {
+                        "Key": "DNS",
+                        "Value": "0.0.0.0"
+                      },
+                      {
+                        "Key": "DeviceType",
+                        "Value": "CMMT-AS-C2-3A-MP-S1"
+                      },
+                      {
+                        "Key": "DeviceTypeDisplayName",
+                        "Value": "CMMT-AS-C2-3A-MP-S1"
+                      },
+                      {
+                        "Key": "ProtocolName",
+                        "Value": "FestoGenericMulticast"
+                      },
+                      {
+                        "Key": "MAC",
+                        "Value": "00:0E:F0:96:5B:08"
+                      },
+                      {
+                        "Key": "SerialNumber",
+                        "Value": ""
+                      },
+                      {
+                        "Key": "SWVersion",
+                        "Value": "V034.0.13.18_Release"
+                      },
+                      {
+                        "Key": "AppVersion",
+                        "Value": "V034.0.13.18_Release"
+                      },
+                      {
+                        "Key": "DeviceDescription",
+                        "Value": "Devicename:\tCMMT-AS-C2-3A-MP-S1 (X18)\r\nDevicetype:\tCMMT-AS-C2-3A-MP-S1\r\nSerialnumber:\t\r\nProductKey:\tLD7Y62RK46Q\r\nPartnumber:\t8143163\r\nOrder Code:\t\tCMMT-AS-C2-3A-MP-S1\r\nFirmware:\tV034.0.13.18_Release\r\n\r\nDHCP:\t\tno\r\nIP Address:\t192.168.0.4\r\nIP Netmask:\t255.255.255.0\r\nGateway:\t0.0.0.0\r\nDNS:\t\t0.0.0.0\r\nMAC:\t\t00:0E:F0:96:5B:08\r\n\r\nGeneric info:\t00:00:00:00:00:00\r\n\t\t00:00:00:00:00:00"
+                      },
+                      {
+                        "Key": "IpAddressConfigPossibility",
+                        "Value": "3"
+                      },
+                      {
+                        "Key": "IsPwdRequired",
+                        "Value": "False"
+                      },
+                      {
+                        "Key": "IsParallelDownloadSupported",
+                        "Value": "True"
+                      },
+                      {
+                        "Key": "IsIdentifyRunning",
+                        "Value": "False"
+                      },
+                      {
+                        "Key": "ENGPoverENGTSupported",
+                        "Value": "False"
+                      },
+                      {
+                        "Key": "ENGPSupported",
+                        "Value": "False"
+                      },
+                      {
+                        "Key": "HardwareTypeName",
+                        "Value": "CMMT-AS-MP"
+                      },
+                      {
+                        "Key": "NocCode",
+                        "Value": "CMMT-AS-C2-3A-MP-S1"
+                      },
+                      {
+                        "Key": "IsHomepageSupported",
+                        "Value": "True"
+                      },
+                      {
+                        "Key": "MessageBeforeDownload",
+                        "Value": "Do you really want to download the firmware '{0}' to the device '{1}'?"
+                      },
+                      {
+                        "Key": "IsDeviceNameSettingPossible",
+                        "Value": "True"
+                      },
+                      {
+                        "Key": "IsDnsSettingPossible",
+                        "Value": "False"
+                      },
+                      {
+                        "Key": "Debug_ApplicationType",
+                        "Value": "8143163"
+                      },
+                      {
+                        "Key": "Debug_IpAddress",
+                        "Value": "0"
+                      },
+                      {
+                        "Key": "Debug_StaticIpAddress",
+                        "Value": "-1062731772"
+                      },
+                      {
+                        "Key": "Debug_Gateway",
+                        "Value": "0"
+                      },
+                      {
+                        "Key": "Debug_StaticSubnetmask",
+                        "Value": "-256"
+                      },
+                      {
+                        "Key": "Debug_StaticGateway",
+                        "Value": "0"
+                      },
+                      {
+                        "Key": "Debug_DNSserver",
+                        "Value": "0"
+                      },
+                      {
+                        "Key": "Debug_StaticDNSserver",
+                        "Value": "0"
+                      },
+                      {
+                        "Key": "Debug_DevicePassword",
+                        "Value": ""
+                      },
+                      {
+                        "Key": "Debug_State",
+                        "Value": "0"
+                      },
+                      {
+                        "Key": "Debug_SubState",
+                        "Value": "0"
+                      },
+                      {
+                        "Key": "Debug_ProtocolName",
+                        "Value": "FestoGenericMulticast"
+                      },
+                      {
+                        "Key": "Debug_DeviceState",
+                        "Value": "0"
+                      },
+                      {
+                        "Key": "Debug_AddressType",
+                        "Value": "0"
+                      },
+                      {
+                        "Key": "Debug_DeviceName",
+                        "Value": "CMMT-AS-C2-3A-MP-S1 (X18)"
+                      },
+                      {
+                        "Key": "Debug_Address",
+                        "Value": "-1062731772"
+                      },
+                      {
+                        "Key": "Debug_Subnetmask",
+                        "Value": "-256"
+                      },
+                      {
+                        "Key": "Debug_DeviceType",
+                        "Value": "CMMT-AS-C2-3A-MP-S1"
+                      },
+                      {
+                        "Key": "Debug_DeviceTypeDisplayName",
+                        "Value": "CMMT-AS-C2-3A-MP-S1"
+                      },
+                      {
+                        "Key": "Debug_AppVersion",
+                        "Value": "V034.0.13.18_Release"
+                      },
+                      {
+                        "Key": "Debug_MAC",
+                        "Value": "00:0E:F0:96:5B:08"
+                      },
+                      {
+                        "Key": "Debug_SerialNumber",
+                        "Value": ""
+                      },
+                      {
+                        "Key": "Debug_ProductKey",
+                        "Value": "LD7Y62RK46Q"
+                      },
+                      {
+                        "Key": "Debug_PartNumber",
+                        "Value": "8143163"
+                      },
+                      {
+                        "Key": "Debug_NOC",
+                        "Value": "CMMT-AS-C2-3A-MP-S1"
+                      },
+                      {
+                        "Key": "Debug_HardwareTypeId",
+                        "Value": "23"
+                      },
+                      {
+                        "Key": "Debug_SWVersion",
+                        "Value": "V034.0.13.18_Release"
+                      },
+                      {
+                        "Key": "Debug_HWVersion",
+                        "Value": ""
+                      },
+                      {
+                        "Key": "Debug_DestinationId",
+                        "Value": "30304530304636394235383000000000"
+                      },
+                      {
+                        "Key": "Debug_UnscannedFavorite",
+                        "Value": "False"
+                      },
+                      {
+                        "Key": "Debug_DiagnoseState",
+                        "Value": "14"
+                      },
+                      {
+                        "Key": "Debug_UnicastReachable",
+                        "Value": "False"
+                      },
+                      {
+                        "Key": "Debug_Favorite",
+                        "Value": "15"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Name": "NocCode",
+                "Value": "CMMT-AS-C2-3A-MP-S1"
+              }
+            ]
+          }
+        ],
+        "EngineeringProductCatalog": [
+          {
+            "$id": "1129",
+            "Id": "f75a13e6-c849-4b71-918f-d272c5607088",
+            "IconMarkup": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n\r\n<Canvas xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"\r\n        xmlns:attachedProperties=\"clr-namespace:Festo.Suite.Design.AttachedProperties;assembly=Festo.Suite.Design\"\r\n        Tag=\"CMMT-AS-EC_BGW2\" Width=\"49\" Height=\"199\" VerticalAlignment=\"Top\">\r\n    <Canvas Tag=\"Body\" IsHitTestVisible=\"False\">\r\n        <Rectangle Tag=\"Base\" Width=\"49\" Height=\"197\" Fill=\"#FFF2F3F5\" Canvas.Left=\"0\" Canvas.Top=\"2\" />\r\n        <Rectangle Tag=\"Bottom\" Width=\"49\" Height=\"26\" Fill=\"#FFD8DCE1\" Canvas.Left=\"0\" Canvas.Top=\"173\" />\r\n        <Rectangle Tag=\"Top\" Width=\"49\" Height=\"16\" Fill=\"#FFE5E8EB\" Canvas.Left=\"0\" Canvas.Top=\"2\" />\r\n        <Rectangle Tag=\"Middle\" Width=\"49\" Height=\"103\" Fill=\"#FFE5E8EB\" Canvas.Left=\"0\" Canvas.Top=\"68\" />\r\n    </Canvas>\r\n    <Canvas Tag=\"Operator Interface\" IsHitTestVisible=\"False\">\r\n        <Rectangle Tag=\"Display_Frame\" Width=\"49\" Height=\"46\" Fill=\"#FFE5E8EB\" Canvas.Left=\"0\" Canvas.Top=\"20\" />\r\n        <Rectangle Tag=\"Display\" Width=\"39\" Height=\"30\" Fill=\"#FFB6BEC6\" Canvas.Left=\"5\" Canvas.Top=\"30\" />\r\n        <Canvas Tag=\"Festo Logo\">\r\n            <Path Tag=\"F\" Fill=\"#FF0091DC\" Canvas.Left=\"26\" Canvas.Top=\"23.336\">\r\n                <Path.Data>\r\n                    <PathGeometry\r\n                        Figures=\"M.111 3.447A.114.114 0 0 1 0 3.332V.115A.114.114 0 0 1 .111 0H3.223a.114.114 0 0 1 .111.115v.46A.113.113 0 0 1 3.223.69H1A.113.113 0 0 0 .889.8v.46A.113.113 0 0 0 1 1.379H3a.113.113 0 0 1 .111.115v.46A.112.112 0 0 1 3 2.068H1a.114.114 0 0 0-.111.116V3.332a.113.113 0 0 1-.111.115Z\" />\r\n                </Path.Data>\r\n            </Path>\r\n            <Path Tag=\"E\" Fill=\"#FF0091DC\" Canvas.Left=\"29.556\" Canvas.Top=\"23.336\">\r\n                <Path.Data>\r\n                    <PathGeometry\r\n                        Figures=\"M0 .115A.113.113 0 0 1 .111 0H3.445a.114.114 0 0 1 .111.115v.46A.113.113 0 0 1 3.445.69H1A.113.113 0 0 0 .889.8v.46A.113.113 0 0 0 1 1.379H3.223a.113.113 0 0 1 .111.115v.46a.113.113 0 0 1-.111.114H1a.114.114 0 0 0-.111.116v.459A.113.113 0 0 0 1 2.758H3.445a.113.113 0 0 1 .111.115v.459a.114.114 0 0 1-.111.115H.111A.113.113 0 0 1 0 3.332Z\" />\r\n                </Path.Data>\r\n            </Path>\r\n            <Path Tag=\"S\" Fill=\"#FF0091DC\" Canvas.Left=\"33.335\" Canvas.Top=\"23.336\">\r\n                <Path.Data>\r\n                    <PathGeometry\r\n                        Figures=\"M0 1.379a.678.678 0 0 0 .667.689H2.445a.226.226 0 0 1 .222.23v.23a.226.226 0 0 1-.222.23H1a.114.114 0 0 1-.111-.115.113.113 0 0 0-.111-.115H.111A.113.113 0 0 0 0 2.642v.115a.678.678 0 0 0 .667.689H2.89a.678.678 0 0 0 .666-.689v-.69a.678.678 0 0 0-.666-.689H1.111a.226.226 0 0 1-.222-.23V.92A.226.226 0 0 1 1.111.69H2.555A.113.113 0 0 1 2.667.8.113.113 0 0 0 2.778.92h.667A.113.113 0 0 0 3.556.8V.69A.679.679 0 0 0 2.89 0H.667A.679.679 0 0 0 0 .69Z\" />\r\n                </Path.Data>\r\n            </Path>\r\n            <Path Tag=\"T\" Fill=\"#FF0091DC\" Canvas.Left=\"37.113\" Canvas.Top=\"23.336\">\r\n                <Path.Data>\r\n                    <PathGeometry\r\n                        Figures=\"M0 .115A.114.114 0 0 1 .112 0H3.445a.114.114 0 0 1 .112.115v.46A.113.113 0 0 1 3.445.69H2.334A.113.113 0 0 0 2.224.8V3.332a.113.113 0 0 1-.112.115H1.446a.113.113 0 0 1-.112-.115V.8A.113.113 0 0 0 1.223.69H.112A.113.113 0 0 1 0 .575V.115Z\" />\r\n                </Path.Data>\r\n            </Path>\r\n            <Path Tag=\"O\" Fill=\"#FF0091DC\" Canvas.Left=\"40.946\" Canvas.Top=\"23.336\">\r\n                <Path.Data>\r\n                    <PathGeometry\r\n                        Figures=\"M2.845 3.457H.656A.623.623 0 0 1 .4 3.4a.653.653 0 0 1-.208-.148.692.692 0 0 1-.141-.22A.719.719 0 0 1 0 2.766V.692A.719.719 0 0 1 .052.423.694.694 0 0 1 .192.2.654.654 0 0 1 .4.054.622.622 0 0 1 .656 0H2.845A.623.623 0 0 1 3.1.054.652.652 0 0 1 3.309.2a.692.692 0 0 1 .14.22A.721.721 0 0 1 3.5.692V2.766a.721.721 0 0 1-.051.269.691.691 0 0 1-.14.22A.652.652 0 0 1 3.1 3.4.624.624 0 0 1 2.845 3.457ZM1.094.692A.212.212 0 0 0 .939.759.235.235 0 0 0 .875.922V2.535A.236.236 0 0 0 .939 2.7a.212.212 0 0 0 .155.067H2.406A.212.212 0 0 0 2.561 2.7a.236.236 0 0 0 .064-.163V.922A.235.235 0 0 0 2.561.759.212.212 0 0 0 2.406.692Z\" />\r\n                </Path.Data>\r\n            </Path>\r\n        </Canvas>\r\n    </Canvas>\r\n    <Canvas Tag=\"Auxiliary Interfaces\" IsHitTestVisible=\"False\">\r\n        <Rectangle Tag=\"X6A\" Width=\"9\" Height=\"21\" Fill=\"#FFB6BEC6\" Canvas.Left=\"32\" Canvas.Top=\"116\" />\r\n        <Rectangle Tag=\"X6B\" Width=\"12\" Height=\"14\" Fill=\"#FFB6BEC6\" Canvas.Left=\"29\" Canvas.Top=\"102\" />\r\n        <Rectangle Tag=\"X1C\" Width=\"9\" Height=\"15\" Fill=\"#FFB6BEC6\" Canvas.Left=\"32\" Canvas.Top=\"83\" />\r\n        <Rectangle Tag=\"X2\" Width=\"12.0\" Height=\"12.0\" Fill=\"#FFB6BEC6\" Stroke=\"#FFB6BEC6\" StrokeThickness=\"2\"\r\n                   Canvas.Left=\"6.0\" Canvas.Top=\"131.0\" />\r\n        <Rectangle Tag=\"X3\" Width=\"12.0\" Height=\"12.0\" Fill=\"#FFB6BEC6\" Stroke=\"#FFB6BEC6\" StrokeThickness=\"2\"\r\n                   Canvas.Left=\"6.0\" Canvas.Top=\"116.0\" />\r\n        <Rectangle Tag=\"X10\" Width=\"12.0\" Height=\"12.0\" Fill=\"#FFB6BEC6\" Stroke=\"#FFB6BEC6\" StrokeThickness=\"2\"\r\n                   Canvas.Left=\"6.0\" Canvas.Top=\"98.0\" />\r\n        <Rectangle Tag=\"X18\" Width=\"12.0\" Height=\"12.0\" Fill=\"#FFB6BEC6\" Stroke=\"#FFB6BEC6\" StrokeThickness=\"2\"\r\n                   Canvas.Left=\"6.0\" Canvas.Top=\"83.0\" />\r\n    </Canvas>\r\n    <Canvas Tag=\"Connectors\">\r\n        <Canvas Tag=\"XF2 OUT\" attachedProperties:SuiteProps.ConnectorName=\"XF2 OUT\"\r\n                attachedProperties:SuiteProps.TranslateTransformX=\"32.00000000000001\"\r\n                attachedProperties:SuiteProps.TranslateTransformY=\"4.0\"\r\n                attachedProperties:SuiteProps.ConnectorOutDirection=\"Up\" attachedProperties:SuiteProps.UIType=\"RJ45\">\r\n            <Canvas Tag=\"Up\">\r\n                <Rectangle Tag=\"RJ45\" Width=\"12.0\" Height=\"12.0\" Fill=\"#FFFFD600\" Stroke=\"#FFFFD600\"\r\n                           StrokeThickness=\"2\" Canvas.Left=\"32.00000000000001\" Canvas.Top=\"4.0\" />\r\n            </Canvas>\r\n        </Canvas>\r\n        <Canvas Tag=\"XF1 IN\" attachedProperties:SuiteProps.ConnectorName=\"XF1 IN\"\r\n                attachedProperties:SuiteProps.TranslateTransformX=\"5.000000000000001\"\r\n                attachedProperties:SuiteProps.TranslateTransformY=\"4.0\"\r\n                attachedProperties:SuiteProps.ConnectorOutDirection=\"Up\" attachedProperties:SuiteProps.UIType=\"RJ45\">\r\n            <Canvas Tag=\"Up\">\r\n                <Rectangle Tag=\"RJ45\" Width=\"12.0\" Height=\"12.0\" Fill=\"#FFFFD600\" Stroke=\"#FFFFD600\"\r\n                           StrokeThickness=\"2\" Canvas.Left=\"5.000000000000001\" Canvas.Top=\"4.0\" />\r\n            </Canvas>\r\n        </Canvas>\r\n    </Canvas>\r\n    <Rectangle Tag=\"StatusIconPlaceholder\" Width=\"16\" Height=\"16\" Canvas.Left=\"2\" Canvas.Top=\"22\"\r\n               IsHitTestVisible=\"False\" attachedProperties:SuiteProps.TranslateTransformX=\"2\"\r\n               attachedProperties:SuiteProps.TranslateTransformY=\"22\"\r\n               attachedProperties:SuiteProps.IsStatusIconPlaceHolder=\"True\" />\r\n    <Rectangle Tag=\"CodesysFieldbusSlaveStatusIconPlaceHolder\" Width=\"20\" Height=\"20\" Canvas.Left=\"15\" Canvas.Top=\"0\"\r\n               IsHitTestVisible=\"False\" attachedProperties:SuiteProps.TranslateTransformX=\"15\"\r\n               attachedProperties:SuiteProps.TranslateTransformY=\"0\"\r\n               attachedProperties:SuiteProps.IsCodesysFieldbusSlaveStatusIconPlaceHolder=\"True\" />\r\n</Canvas>",
+            "Vendor": "Festo",
+            "OrderCode": "CMMT-AS-C2-3A-MP-S1",
+            "PartNumber": "8143163",
+            "Connectors": [
+              {
+                "$id": "1130",
+                "Id": "13573387-17da-42f0-b08a-5b8450cac884",
+                "Name": "XF1 IN",
+                "Role": "In",
+                "ConnectionType": "758ac86d-adda-4670-8240-64a0d7f300c6",
+                "Constraints": "MaxComponentConnections=1",
+                "ParameterSet": [
+                  {
+                    "Name": "CodesysDeviceIdentification",
+                    "Value": "65;^1D_007B1A95;"
+                  }
+                ]
+              },
+              {
+                "$id": "1131",
+                "Id": "b22ebb6d-bde2-4ef9-819b-3fb5871162e2",
+                "Name": "XF2 OUT",
+                "Role": "Out",
+                "ConnectionType": "758ac86d-adda-4670-8240-64a0d7f300c6",
+                "Constraints": "MaxComponentConnections=1"
+              }
+            ],
+            "Connections": [
+              {
+                "$id": "1132",
+                "Id": "0023783b-034a-42a2-9aa4-8942699dcfb8",
+                "SourceConnector": {
+                  "$ref": "1130"
+                },
+                "TargetConnector": {
+                  "$ref": "1131"
+                }
+              }
+            ],
+            "ParameterSet": [
+              {
+                "Name": "ExportFormats",
+                "Value": "pck, Festo PCK"
+              }
+            ]
+          },
+          {
+            "$id": "1133",
+            "Id": "d27db5fb-06e5-45d0-ab9c-4780aeb9636a",
+            "Name": "EMMT-AS-60-S-LS-RMB",
+            "PartNumber": "5242199"
+          },
+          {
+            "$id": "1134",
+            "Id": "574acc1e-d591-4805-bf48-39f1737fbd08",
+            "Name": "User defined linear axis"
+          },
+          {
+            "$id": "1135",
+            "Id": "5dcca6ee-e5d7-4765-aded-33ab2e5f4c92",
+            "Name": "User Defined Mounting Kit",
+            "PartNumber": ""
+          },
+          {
+            "$id": "1136",
+            "Id": "72be78f5-c230-49d4-b4c0-b54b9b2e3348",
+            "Name": "EMMT-AS-60-S-LS-RMB",
+            "PartNumber": "5242199"
+          },
+          {
+            "$id": "1137",
+            "Id": "9d653c61-8681-4e94-92b5-872b54c34fdc",
+            "Name": "User defined linear axis"
+          },
+          {
+            "$id": "1138",
+            "Id": "34e25784-3321-4a47-99ea-e8dcd972cfb5",
+            "Name": "User Defined Mounting Kit",
+            "PartNumber": ""
+          },
+          {
+            "$id": "1139",
+            "Id": "76e5378c-c0d4-4a26-8ac3-9318f7a3fe7e",
+            "Name": "EMMT-AS-60-S-LS-RMB",
+            "PartNumber": "5242199"
+          },
+          {
+            "$id": "1140",
+            "Id": "d56adf14-f238-4b7f-ab87-e1c9ef313760",
+            "Name": "User defined linear axis"
+          },
+          {
+            "$id": "1141",
+            "Id": "911014b0-75e0-4513-80d9-0c05724bbf90",
+            "Name": "User Defined Mounting Kit",
+            "PartNumber": ""
+          },
+          {
+            "$id": "1142",
+            "Id": "6f7cc403-658a-42f2-b9a7-5ec8b2ed372b",
+            "Name": "EMMT-AS-60-S-LS-RMB",
+            "PartNumber": "5242199"
+          },
+          {
+            "$id": "1143",
+            "Id": "40bf6e6b-c2b6-4da7-9e79-5a29df200872",
+            "Name": "User defined linear axis"
+          },
+          {
+            "$id": "1144",
+            "Id": "a2dba4a9-2ac4-4a68-8813-34c51b61fa23",
+            "Name": "User Defined Mounting Kit",
+            "PartNumber": ""
+          },
+          {
+            "$id": "1145",
+            "Id": "baeb73d8-e030-42aa-bd2e-5f36b294f8d2",
+            "Name": "EMMT-AS-60-S-LS-RMB",
+            "PartNumber": "5242199"
+          },
+          {
+            "$id": "1146",
+            "Id": "7ed57e11-1ab9-44a9-9abb-8c606081df17",
+            "Name": "User defined linear axis"
+          },
+          {
+            "$id": "1147",
+            "Id": "96311556-eb56-4517-8ede-3ec23f74579f",
+            "Name": "User Defined Mounting Kit",
+            "PartNumber": ""
+          },
+          {
+            "$id": "1148",
+            "Id": "06bbbc28-b05a-49ed-b52c-450efaee2007",
+            "Name": "EMMT-AS-60-S-LS-RMB",
+            "PartNumber": "5242199"
+          },
+          {
+            "$id": "1149",
+            "Id": "7d78a43c-266e-4ad5-bdf2-df66b7c85f95",
+            "Name": "User defined linear axis"
+          },
+          {
+            "$id": "1150",
+            "Id": "1a246277-2930-4bbb-826a-c693676e49f8",
+            "Name": "User Defined Mounting Kit",
+            "PartNumber": ""
+          },
+          {
+            "$id": "1151",
+            "Id": "c5e57607-a632-4798-9f77-3f9a9ff9519a",
+            "Name": "EMMT-AS-60-S-LS-RMB",
+            "PartNumber": "5242199"
+          },
+          {
+            "$id": "1152",
+            "Id": "75950141-f257-44fa-8498-fc08daccb871",
+            "Name": "User defined linear axis"
+          },
+          {
+            "$id": "1153",
+            "Id": "b056c18f-1e40-41c1-aa05-555d300e46a6",
+            "Name": "User Defined Mounting Kit",
+            "PartNumber": ""
+          },
+          {
+            "$id": "1154",
+            "Id": "38db1d98-8b12-4101-9356-d6bbe0c96c05",
+            "Name": "EMMT-AS-60-S-LS-RMB",
+            "PartNumber": "5242199"
+          },
+          {
+            "$id": "1155",
+            "Id": "01ce397f-7509-43ee-b7b9-cec1253a7805",
+            "Name": "User defined linear axis"
+          },
+          {
+            "$id": "1156",
+            "Id": "9508a1ef-b4d0-4097-8ed7-3c7d5e8bdc1d",
+            "Name": "User Defined Mounting Kit",
+            "PartNumber": ""
+          },
+          {
+            "$id": "1157",
+            "Id": "cb60baf3-1bc3-44e9-8e9b-b2a40e763031",
+            "Name": "EMMT-AS-60-S-LS-RMB",
+            "PartNumber": "5242199"
+          },
+          {
+            "$id": "1158",
+            "Id": "1d21181d-90d3-4d19-8125-5addaa7b737b",
+            "Name": "User Defined Linear Axis"
+          },
+          {
+            "$id": "1159",
+            "Id": "29328a43-ed0e-4885-b323-1e3d48e0ab30",
+            "Name": "User Defined Mounting Kit",
+            "PartNumber": ""
+          },
+          {
+            "$id": "1160",
+            "Id": "d774ab85-457a-4ed0-940b-1310c667997e",
+            "Name": "EMMT-AS-60-S-LS-RMB",
+            "PartNumber": "5242199"
+          },
+          {
+            "$id": "1161",
+            "Id": "a3ff360a-730f-4c59-bad0-da1d6a8be2cf",
+            "Name": "User Defined Linear Axis"
+          },
+          {
+            "$id": "1162",
+            "Id": "74ff7552-69f0-41a1-b26c-295aa72da794",
+            "Name": "User Defined Mounting Kit",
+            "PartNumber": ""
+          }
+        ],
+        "EngineeringComponents": [
+          {
+            "$id": "1163",
+            "Id": "50c325c9-1461-4985-90e2-07e155c5d48f",
+            "Name": "CMMT-AS-C2-3A-MP-S1",
+            "Product": {
+              "$ref": "1129"
+            },
+            "Connectors": [
+              {
+                "$id": "1164",
+                "Id": "d9d4f24d-7db3-4f9b-bfe0-6ab5a8cd853e",
+                "Name": "XF1 IN",
+                "Role": "In",
+                "ConnectionType": "758ac86d-adda-4670-8240-64a0d7f300c6",
+                "Constraints": "MaxComponentConnections=1",
+                "ParameterSet": [
+                  {
+                    "Name": "CodesysDeviceIdentification",
+                    "Value": "65;^1D_007B1A95;"
+                  },
+                  {
+                    "$valuetype": "System.Guid",
+                    "Name": "CodesysDeviceObjectId"
+                  }
+                ]
+              },
+              {
+                "$id": "1165",
+                "Id": "ebe7430e-7899-409f-85a0-04be5191c50a",
+                "Name": "XF2 OUT",
+                "Role": "Out",
+                "ConnectionType": "758ac86d-adda-4670-8240-64a0d7f300c6",
+                "Constraints": "MaxComponentConnections=1"
+              }
+            ],
+            "Connections": [
+              {
+                "$id": "1166",
+                "Id": "df9a7930-75d4-4b38-878b-c8cc4033fab2",
+                "SourceConnector": {
+                  "$ref": "1164"
+                },
+                "TargetConnector": {
+                  "$ref": "1165"
+                }
+              }
+            ],
+            "ParameterSet": [
+              {
+                "Name": "StoredData",
+                "Value": true
+              },
+              {
+                "Name": "ExportFormats",
+                "Value": "pck, Festo PCK"
+              }
+            ]
+          },
+          {
+            "$id": "1167",
+            "Id": "b3859344-b00a-406b-ae92-5889ad5691ae",
+            "Name": "EMMT-AS-60-S-LS-RMB",
+            "Product": {
+              "$ref": "1160"
+            },
+            "ParameterSet": [
+              {
+                "Name": "ComponentType",
+                "Value": "Motor"
+              }
+            ]
+          },
+          {
+            "$id": "1168",
+            "Id": "3fcfd621-2d00-4cf6-9efa-76023c601fad",
+            "Name": "User Defined Linear Axis",
+            "Product": {
+              "$ref": "1161"
+            },
+            "ParameterSet": [
+              {
+                "Name": "ComponentType",
+                "Value": "Axis"
+              }
+            ]
+          },
+          {
+            "$id": "1169",
+            "Id": "118ad087-1562-43d4-8495-f0c0e11edd9a",
+            "Name": "User Defined Mounting Kit",
+            "Product": {
+              "$ref": "1162"
+            },
+            "ParameterSet": [
+              {
+                "Name": "ComponentType",
+                "Value": "MountingKit"
+              }
+            ]
+          }
+        ],
+        "MainEngineeringComponent": {
+          "$ref": "1163"
         },
         "ParameterSet": []
       }
     ],
     "Connections": [
       {
-        "$id": "1124",
+        "$id": "1170",
         "Id": "81ae848b-cbe1-4aaa-a913-62d02c7b126a",
         "SourceConnector": {
           "$ref": "14"
@@ -8298,13 +9143,23 @@
         }
       },
       {
-        "$id": "1125",
+        "$id": "1171",
         "Id": "cf787d58-c184-47df-8a86-2f94f23e9109",
         "SourceConnector": {
           "$ref": "574"
         },
         "TargetConnector": {
           "$ref": "1117"
+        }
+      },
+      {
+        "$id": "1172",
+        "Id": "7e2c038d-e467-4997-a47e-5bb9de627315",
+        "SourceConnector": {
+          "$ref": "1118"
+        },
+        "TargetConnector": {
+          "$ref": "1164"
         }
       }
     ]
