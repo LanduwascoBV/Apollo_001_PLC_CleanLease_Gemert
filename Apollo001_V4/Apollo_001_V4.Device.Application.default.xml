@@ -30,6 +30,12 @@
   <NodeList>
     <Node name="Application">
       <Node name="GVL">
+        <Node name="AI_InnerPickPos" type="T_INT" access="ReadWrite" />
+        <Node name="AI_MoveConveyor" type="T_INT" access="ReadWrite" />
+        <Node name="AI_OuterPickPos" type="T_INT" access="ReadWrite" />
+        <Node name="bAIDone" type="T_BOOL" access="ReadWrite" />
+        <Node name="bAIStart" type="T_BOOL" access="ReadWrite" />
+        <Node name="bProductionMode" type="T_BOOL" access="ReadWrite" />
         <Node name="bResetError" type="T_BOOL" access="ReadWrite" />
         <Node name="bTestMode" type="T_BOOL" access="ReadWrite" />
         <Node name="bTestMoveConveyor" type="T_BOOL" access="ReadWrite" />
